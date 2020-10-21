@@ -1,0 +1,13 @@
+C:\Users\BB\Desktop\New folder\LaunchCode\CSharp\Chapter7\FunWithQuizzes\bin\Debug\netcoreapp3.1\FunWithQuizzes.exe
+C:\Users\BB\Desktop\New folder\LaunchCode\CSharp\Chapter7\FunWithQuizzes\bin\Debug\netcoreapp3.1\FunWithQuizzes.deps.json
+C:\Users\BB\Desktop\New folder\LaunchCode\CSharp\Chapter7\FunWithQuizzes\bin\Debug\netcoreapp3.1\FunWithQuizzes.runtimeconfig.json
+C:\Users\BB\Desktop\New folder\LaunchCode\CSharp\Chapter7\FunWithQuizzes\bin\Debug\netcoreapp3.1\FunWithQuizzes.runtimeconfig.dev.json
+C:\Users\BB\Desktop\New folder\LaunchCode\CSharp\Chapter7\FunWithQuizzes\bin\Debug\netcoreapp3.1\FunWithQuizzes.dll
+C:\Users\BB\Desktop\New folder\LaunchCode\CSharp\Chapter7\FunWithQuizzes\bin\Debug\netcoreapp3.1\FunWithQuizzes.pdb
+C:\Users\BB\Desktop\New folder\LaunchCode\CSharp\Chapter7\FunWithQuizzes\obj\Debug\netcoreapp3.1\FunWithQuizzes.csprojAssemblyReference.cache
+C:\Users\BB\Desktop\New folder\LaunchCode\CSharp\Chapter7\FunWithQuizzes\obj\Debug\netcoreapp3.1\FunWithQuizzes.AssemblyInfoInputs.cache
+C:\Users\BB\Desktop\New folder\LaunchCode\CSharp\Chapter7\FunWithQuizzes\obj\Debug\netcoreapp3.1\FunWithQuizzes.AssemblyInfo.cs
+C:\Users\BB\Desktop\New folder\LaunchCode\CSharp\Chapter7\FunWithQuizzes\obj\Debug\netcoreapp3.1\FunWithQuizzes.csproj.CoreCompileInputs.cache
+C:\Users\BB\Desktop\New folder\LaunchCode\CSharp\Chapter7\FunWithQuizzes\obj\Debug\netcoreapp3.1\FunWithQuizzes.dll
+C:\Users\BB\Desktop\New folder\LaunchCode\CSharp\Chapter7\FunWithQuizzes\obj\Debug\netcoreapp3.1\FunWithQuizzes.pdb
+C:\Users\BB\Desktop\New folder\LaunchCode\CSharp\Chapter7\FunWithQuizzes\obj\Debug\netcoreapp3.1\FunWithQuizzes.genruntimeconfig.cache
